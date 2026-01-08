@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Gemini OCR Batch Pro",
+  "description": "A powerful batch image OCR tool that extracts text from multiple images using Gemini 3 Flash and exports the results to CSV for easy use in Google Sheets or Excel.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
